@@ -1,0 +1,16 @@
+package Tester;
+import com.app.geometry.*;
+import java.util.Scanner;
+public class Testpoint {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enter a x : ");
+		double x = sc.nextInt();
+		System.out.println("enter a y: ");
+		double y = sc.nextInt();
+		Point2D p1 =  new Point2D();
+
+	}
+
+}
